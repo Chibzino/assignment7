@@ -1,0 +1,81 @@
+.cat1{
+  height: 8rem;
+  width: 200px;
+  border-radius: 0.5rem;
+  margin-right: 5rem;
+}
+.cat2{
+  height: 8rem;
+  width: 8rem;
+  margin-right: 5rem;
+}
+.cat3{
+  height: 8rem;
+  width: 8rem;
+  border-radius: 4rem;
+}
+.seg1{
+  margin-bottom: 4rem;
+}
+.searchbar1{
+  width: 8rem;
+  font-size: 1rem;
+  height: 2rem;
+  border-radius: 0.3rem;
+  border-width: 0.1rem;
+  margin-right: 4rem;
+}
+.searchbar2{
+  width: 15rem;
+  font-size: 1rem;
+  height: 2rem;
+  border-radius: 1.3rem;
+  border: none;
+  transition: box-shadow 0.15s;
+}
+.searchbar2:hover{
+  box-shadow: 5px 5px 10px;
+}
+.seg2{
+  margin-bottom:4rem ;
+}
+.email{
+  margin-bottom: 0;
+}
+.linkbar{
+  width: 15rem;
+}
+.agree-join{
+  color: white;
+  width: 14rem;
+  background-color: blue;
+  font-family: serif;
+  height: 3rem;
+  border: none;
+  border-radius: 2rem;
+  font-size: large;
+}
+.seg3{
+  margin-bottom: 4rem;
+}
+.image1{
+  height: 50px;
+  width: 50px;
+  border-radius: 25px ;
+  vertical-align: middle;
+}
+.what{
+  vertical-align: middle;
+  border: none;
+}
+.tweet-button {
+  border: none;
+  height: 36px;
+  width: 74px;
+  color: white;
+  background-color: rgb(21, 125, 194);
+  font-size: 15px;
+  border-radius: 18px;
+  font-weight: bold;
+  margin-left: 150px;
+}
